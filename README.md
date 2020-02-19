@@ -1,3 +1,3 @@
 # Bubbles16.github.io
 
-<a href="Be encouraged.html"> website</a>
+<a href="Be encouraged.html"> My Website</a>
